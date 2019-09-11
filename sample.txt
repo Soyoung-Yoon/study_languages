@@ -1,4 +1,0 @@
-﻿I am a girl!
-You are a boy!
-
-한글이 가능합니다.  UTF-8  형식으로 저장합니다.
